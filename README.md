@@ -1,2 +1,1 @@
-# portfolio
-My photography and technology portfolio
+My photography & technology portfolio site written in Next.

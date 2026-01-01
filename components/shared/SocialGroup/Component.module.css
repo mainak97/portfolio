@@ -1,0 +1,13 @@
+.svg {
+    color: #ffffff;
+    width: 20px;
+    height: 20px;
+}
+
+@media (max-width: 900px) {
+    .svg {
+        color: #ffffff;
+        width: 15px;
+        height: 15px;
+    }
+}

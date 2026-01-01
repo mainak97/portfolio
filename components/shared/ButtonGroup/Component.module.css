@@ -1,0 +1,32 @@
+.button {
+    font-size: xx-large;
+    cursor: pointer;
+}
+
+.button:hover {
+    text-decoration: underline;
+}
+
+.buttonDivider {
+    font-size: xx-large;
+}
+
+.active {
+    font-size: xxx-large;
+    color: crimson;
+}
+
+
+.buttonContainer {
+    margin-top: calc(var(--spacing) * 10);
+}
+
+@media (max-width: 900px) {
+    .button {
+        font-size: large;
+    }
+
+    .buttonContainer {
+        margin-top: calc(var(--spacing) * 5);
+    }
+}
