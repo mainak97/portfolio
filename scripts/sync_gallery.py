@@ -73,7 +73,7 @@ def main():
 
     local_root = Path(args.local).resolve()
     repo_root = Path(args.repo).resolve()
-    gallery_root = repo_root / "public/images/gallery"
+    gallery_root = repo_root / "public/images/"
 
     images = collect_images(local_root)
     print(f"Found {len(images)} images")

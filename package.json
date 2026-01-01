@@ -2,13 +2,16 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev --webpack",
+    "prebuild": "npm run scripts/build_img_metadata.js",
     "build": "next build",
     "start": "next start",
     "lint": "eslint"
   },
   "dependencies": {
+    "fast-xml-parser": "^5.3.3",
     "next": "16.1.1",
     "react": "19.2.3",
     "react-dom": "19.2.3",
