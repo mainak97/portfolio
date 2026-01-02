@@ -1,337 +1,664 @@
 {
-  "abstract": {
-    "DSC_00451111.webp": {
-      "caption": "DSC 00451111"
+  "abstract": [
+    {
+      "caption": "DSC 00451111",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/abstract/DSC_00451111.webp"
     },
-    "DSC_004811.webp": {
-      "caption": "DSC 004811"
+    {
+      "caption": "DSC 004811",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/abstract/DSC_004811.webp"
     },
-    "DSC_005611111.webp": {
-      "caption": "DSC 005611111"
+    {
+      "caption": "DSC 005611111",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/abstract/DSC_005611111.webp"
     },
-    "DSC_0078111.webp": {
-      "caption": "DSC 0078111"
+    {
+      "caption": "DSC 0078111",
+      "height": 4500,
+      "width": 4500,
+      "src": "/images/gallery/abstract/DSC_0078111.webp"
     },
-    "DSC_01161.webp": {
-      "caption": "DSC 01161"
+    {
+      "caption": "DSC 01161",
+      "height": 6000,
+      "width": 4000,
+      "src": "/images/gallery/abstract/DSC_01161.webp"
     },
-    "DSC_019511 (2).webp": {
-      "caption": "DSC 019511 (2)"
+    {
+      "caption": "DSC 019511 (2)",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/abstract/DSC_019511 (2).webp"
     },
-    "DSC_023111.webp": {
-      "caption": "DSC 023111"
+    {
+      "caption": "DSC 023111",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/abstract/DSC_023111.webp"
     },
-    "DSC_024911.webp": {
-      "caption": "DSC 024911"
+    {
+      "caption": "DSC 024911",
+      "height": 4500,
+      "width": 4500,
+      "src": "/images/gallery/abstract/DSC_024911.webp"
     },
-    "DSC_02781.webp": {
-      "caption": "DSC 02781"
+    {
+      "caption": "DSC 02781",
+      "height": 6000,
+      "width": 4000,
+      "src": "/images/gallery/abstract/DSC_02781.webp"
     },
-    "DSC_02861.webp": {
-      "caption": "DSC 02861"
+    {
+      "caption": "DSC 02861",
+      "height": 11220,
+      "width": 7035,
+      "src": "/images/gallery/abstract/DSC_02861.webp"
     },
-    "DSC_02871.webp": {
-      "caption": "DSC 02871"
+    {
+      "caption": "DSC 02871",
+      "height": 6000,
+      "width": 4000,
+      "src": "/images/gallery/abstract/DSC_02871.webp"
     },
-    "DSC_029221.webp": {
-      "caption": "DSC 029221"
+    {
+      "caption": "DSC 029221",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/abstract/DSC_029221.webp"
     },
-    "DSC_02931.webp": {
-      "caption": "DSC 02931"
+    {
+      "caption": "DSC 02931",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/abstract/DSC_02931.webp"
     },
-    "DSC_0312111.webp": {
-      "caption": "DSC 0312111"
+    {
+      "caption": "DSC 0312111",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/abstract/DSC_0312111.webp"
     },
-    "DSC_03141 (copy).webp": {
-      "caption": "DSC 03141 (copy)"
+    {
+      "caption": "DSC 03141 (copy)",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/abstract/DSC_03141 (copy).webp"
     },
-    "DSC_0330111 (2).webp": {
-      "caption": "DSC 0330111 (2)"
+    {
+      "caption": "DSC 0330111 (2)",
+      "height": 4500,
+      "width": 4500,
+      "src": "/images/gallery/abstract/DSC_0330111 (2).webp"
     },
-    "DSC_0343111.webp": {
-      "caption": "DSC 0343111"
+    {
+      "caption": "DSC 0343111",
+      "height": 5040,
+      "width": 4032,
+      "src": "/images/gallery/abstract/DSC_0343111.webp"
     },
-    "DSC_03451.webp": {
-      "caption": "DSC 03451"
+    {
+      "caption": "DSC 03451",
+      "height": 4000,
+      "width": 6000,
+      "src": "/images/gallery/abstract/DSC_03451.webp"
     },
-    "DSC_03461.webp": {
-      "caption": "DSC 03461"
+    {
+      "caption": "DSC 03461",
+      "height": 4000,
+      "width": 6000,
+      "src": "/images/gallery/abstract/DSC_03461.webp"
     },
-    "DSC_04081.webp": {
-      "caption": "DSC 04081"
+    {
+      "caption": "DSC 04081",
+      "height": 6000,
+      "width": 4000,
+      "src": "/images/gallery/abstract/DSC_04081.webp"
     },
-    "DSC_042511.webp": {
-      "caption": "DSC 042511"
+    {
+      "caption": "DSC 042511",
+      "height": 3661,
+      "width": 2843,
+      "src": "/images/gallery/abstract/DSC_042511.webp"
     },
-    "DSC_04331111.webp": {
-      "caption": "DSC 04331111"
+    {
+      "caption": "DSC 04331111",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/abstract/DSC_04331111.webp"
     },
-    "DSC_05171.webp": {
-      "caption": "DSC 05171"
+    {
+      "caption": "DSC 05171",
+      "height": 7341,
+      "width": 5873,
+      "src": "/images/gallery/abstract/DSC_05171.webp"
     },
-    "DSC_05281.webp": {
-      "caption": "DSC 05281"
+    {
+      "caption": "DSC 05281",
+      "height": 6000,
+      "width": 4000,
+      "src": "/images/gallery/abstract/DSC_05281.webp"
     },
-    "DSC_05691.webp": {
-      "caption": "DSC 05691"
+    {
+      "caption": "DSC 05691",
+      "height": 4000,
+      "width": 6000,
+      "src": "/images/gallery/abstract/DSC_05691.webp"
     },
-    "DSC_06191 (2).webp": {
-      "caption": "DSC 06191 (2)"
+    {
+      "caption": "DSC 06191 (2)",
+      "height": 4000,
+      "width": 6000,
+      "src": "/images/gallery/abstract/DSC_06191 (2).webp"
     },
-    "DSC_06421111.webp": {
-      "caption": "DSC 06421111"
+    {
+      "caption": "DSC 06421111",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/abstract/DSC_06421111.webp"
     },
-    "DSC_06571.webp": {
-      "caption": "DSC 06571"
+    {
+      "caption": "DSC 06571",
+      "height": 4000,
+      "width": 6000,
+      "src": "/images/gallery/abstract/DSC_06571.webp"
     },
-    "DSC_066111 (2).webp": {
-      "caption": "DSC 066111 (2)"
+    {
+      "caption": "DSC 066111 (2)",
+      "height": 4000,
+      "width": 6000,
+      "src": "/images/gallery/abstract/DSC_066111 (2).webp"
     },
-    "DSC_067811.webp": {
-      "caption": "DSC 067811"
+    {
+      "caption": "DSC 067811",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/abstract/DSC_067811.webp"
     },
-    "DSC_0694111.webp": {
-      "caption": "DSC 0694111"
+    {
+      "caption": "DSC 0694111",
+      "height": 6000,
+      "width": 4000,
+      "src": "/images/gallery/abstract/DSC_0694111.webp"
     },
-    "DSC_072411111.webp": {
-      "caption": "DSC 072411111"
+    {
+      "caption": "DSC 072411111",
+      "height": 5040,
+      "width": 4032,
+      "src": "/images/gallery/abstract/DSC_072411111.webp"
     },
-    "DSC_073411.webp": {
-      "caption": "DSC 073411"
+    {
+      "caption": "DSC 073411",
+      "height": 4500,
+      "width": 4500,
+      "src": "/images/gallery/abstract/DSC_073411.webp"
     },
-    "DSC_07831111.webp": {
-      "caption": "DSC 07831111"
+    {
+      "caption": "DSC 07831111",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/abstract/DSC_07831111.webp"
     },
-    "DSC_08111.webp": {
-      "caption": "DSC 08111"
+    {
+      "caption": "DSC 08111",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/abstract/DSC_08111.webp"
     },
-    "DSC_09341111.webp": {
-      "caption": "DSC 09341111"
+    {
+      "caption": "DSC 09341111",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/abstract/DSC_09341111.webp"
     },
-    "DSC_0936111.webp": {
-      "caption": "DSC 0936111"
+    {
+      "caption": "DSC 0936111",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/abstract/DSC_0936111.webp"
     },
-    "DSC_17671.webp": {
-      "caption": "DSC 17671"
+    {
+      "caption": "DSC 17671",
+      "height": 6662,
+      "width": 4000,
+      "src": "/images/gallery/abstract/DSC_17671.webp"
     },
-    "IMG_20240214_2108040071.webp": {
-      "caption": "IMG 20240214 2108040071"
+    {
+      "caption": "IMG 20240214 2108040071",
+      "height": 4500,
+      "width": 4500,
+      "src": "/images/gallery/abstract/IMG_20240214_2108040071.webp"
     },
-    "Mainak Bose - Deprogramming.webp": {
-      "caption": "Mainak Bose - Deprogramming"
+    {
+      "caption": "Mainak Bose - Deprogramming",
+      "height": 6000,
+      "width": 4000,
+      "src": "/images/gallery/abstract/Mainak Bose - Deprogramming.webp"
     },
-    "Mainak Bose - Unknown Silence.webp": {
-      "caption": "Mainak Bose - Unknown Silence"
+    {
+      "caption": "Mainak Bose - Unknown Silence",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/abstract/Mainak Bose - Unknown Silence.webp"
     },
-    "Stand Still.webp": {
-      "caption": "Stand Still"
+    {
+      "caption": "Stand Still",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/abstract/Stand Still.webp"
     }
-  },
-  "b&w": {
-    "DSC_02581 (2).webp": {
-      "caption": "DSC 02581 (2)"
+  ],
+  "b&w": [
+    {
+      "caption": "DSC 02581 (2)",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/b&w/DSC_02581 (2).webp"
     },
-    "DSC_032911.webp": {
-      "caption": "DSC 032911"
+    {
+      "caption": "DSC 032911",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/b&w/DSC_032911.webp"
     },
-    "DSC_03451 (2).webp": {
-      "caption": "DSC 03451 (2)"
+    {
+      "caption": "DSC 03451 (2)",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/b&w/DSC_03451 (2).webp"
     },
-    "DSC_03501.webp": {
-      "caption": "DSC 03501"
+    {
+      "caption": "DSC 03501",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/b&w/DSC_03501.webp"
     },
-    "DSC_03871 (2).webp": {
-      "caption": "DSC 03871 (2)"
+    {
+      "caption": "DSC 03871 (2)",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/b&w/DSC_03871 (2).webp"
     },
-    "DSC_03931.webp": {
-      "caption": "DSC 03931"
+    {
+      "caption": "DSC 03931",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/b&w/DSC_03931.webp"
     },
-    "DSC_05671.webp": {
-      "caption": "DSC 05671"
+    {
+      "caption": "DSC 05671",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/b&w/DSC_05671.webp"
     },
-    "DSC_05701.webp": {
-      "caption": "DSC 05701"
+    {
+      "caption": "DSC 05701",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/b&w/DSC_05701.webp"
     },
-    "DSC_05781.webp": {
-      "caption": "DSC 05781"
+    {
+      "caption": "DSC 05781",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/b&w/DSC_05781.webp"
     },
-    "DSC_06611.webp": {
-      "caption": "DSC 06611"
+    {
+      "caption": "DSC 06611",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/b&w/DSC_06611.webp"
     },
-    "DSC_098411.webp": {
-      "caption": "DSC 098411"
+    {
+      "caption": "DSC 098411",
+      "height": 4500,
+      "width": 4500,
+      "src": "/images/gallery/b&w/DSC_098411.webp"
     },
-    "Mainak Bose - Mirror of Nightmares.webp": {
-      "caption": "Mainak Bose - Mirror of Nightmares"
+    {
+      "caption": "Mainak Bose - Mirror of Nightmares",
+      "height": 7500,
+      "width": 6000,
+      "src": "/images/gallery/b&w/Mainak Bose - Mirror of Nightmares.webp"
     }
-  },
-  "concerts": {
-    "frame_00020.webp": {
-      "caption": "frame 00020"
+  ],
+  "concerts": [
+    {
+      "caption": "frame 00020",
+      "height": 5040,
+      "width": 4032,
+      "src": "/images/gallery/concerts/frame_00020.webp"
     },
-    "frame_00167.webp": {
-      "caption": "frame 00167"
+    {
+      "caption": "frame 00167",
+      "height": 5040,
+      "width": 4032,
+      "src": "/images/gallery/concerts/frame_00167.webp"
     },
-    "frame_00178.webp": {
-      "caption": "frame 00178"
+    {
+      "caption": "frame 00178",
+      "height": 5040,
+      "width": 4032,
+      "src": "/images/gallery/concerts/frame_00178.webp"
     },
-    "frame_00197.webp": {
-      "caption": "frame 00197"
+    {
+      "caption": "frame 00197",
+      "height": 5040,
+      "width": 4032,
+      "src": "/images/gallery/concerts/frame_00197.webp"
     },
-    "frame_00487.webp": {
-      "caption": "frame 00487"
+    {
+      "caption": "frame 00487",
+      "height": 5040,
+      "width": 4032,
+      "src": "/images/gallery/concerts/frame_00487.webp"
     },
-    "frame_00610.webp": {
-      "caption": "frame 00610"
+    {
+      "caption": "frame 00610",
+      "height": 5040,
+      "width": 4032,
+      "src": "/images/gallery/concerts/frame_00610.webp"
     },
-    "frame_00752.webp": {
-      "caption": "frame 00752"
+    {
+      "caption": "frame 00752",
+      "height": 5040,
+      "width": 4032,
+      "src": "/images/gallery/concerts/frame_00752.webp"
     },
-    "frame_01239.webp": {
-      "caption": "frame 01239"
+    {
+      "caption": "frame 01239",
+      "height": 2520,
+      "width": 4032,
+      "src": "/images/gallery/concerts/frame_01239.webp"
     },
-    "frame_01626.webp": {
-      "caption": "frame 01626"
+    {
+      "caption": "frame 01626",
+      "height": 2520,
+      "width": 4032,
+      "src": "/images/gallery/concerts/frame_01626.webp"
     },
-    "frame_02413.webp": {
-      "caption": "frame 02413"
+    {
+      "caption": "frame 02413",
+      "height": 2520,
+      "width": 4032,
+      "src": "/images/gallery/concerts/frame_02413.webp"
     },
-    "frame_02545.webp": {
-      "caption": "frame 02545"
+    {
+      "caption": "frame 02545",
+      "height": 2520,
+      "width": 4032,
+      "src": "/images/gallery/concerts/frame_02545.webp"
     },
-    "frame_02944.webp": {
-      "caption": "frame 02944"
+    {
+      "caption": "frame 02944",
+      "height": 2520,
+      "width": 4032,
+      "src": "/images/gallery/concerts/frame_02944.webp"
     },
-    "frame_03289.webp": {
-      "caption": "frame 03289"
+    {
+      "caption": "frame 03289",
+      "height": 5040,
+      "width": 4032,
+      "src": "/images/gallery/concerts/frame_03289.webp"
     },
-    "frame_03435.webp": {
-      "caption": "frame 03435"
+    {
+      "caption": "frame 03435",
+      "height": 5040,
+      "width": 4032,
+      "src": "/images/gallery/concerts/frame_03435.webp"
     },
-    "frame_05242.webp": {
-      "caption": "frame 05242"
+    {
+      "caption": "frame 05242",
+      "height": 5040,
+      "width": 4032,
+      "src": "/images/gallery/concerts/frame_05242.webp"
     },
-    "frame_08260.webp": {
-      "caption": "frame 08260"
+    {
+      "caption": "frame 08260",
+      "height": 2520,
+      "width": 4032,
+      "src": "/images/gallery/concerts/frame_08260.webp"
     }
-  },
-  "life": {
-    "DSC_00341 (2).webp": {
-      "caption": "DSC 00341 (2)"
+  ],
+  "life": [
+    {
+      "caption": "DSC 00341 (2)",
+      "height": 4000,
+      "width": 6000,
+      "src": "/images/gallery/life/DSC_00341 (2).webp"
     },
-    "DSC_006611.webp": {
-      "caption": "DSC 006611"
+    {
+      "caption": "DSC 006611",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/life/DSC_006611.webp"
     },
-    "DSC_006711 (2).webp": {
-      "caption": "DSC 006711 (2)"
+    {
+      "caption": "DSC 006711 (2)",
+      "height": 4500,
+      "width": 4500,
+      "src": "/images/gallery/life/DSC_006711 (2).webp"
     },
-    "DSC_00681111.webp": {
-      "caption": "DSC 00681111"
+    {
+      "caption": "DSC 00681111",
+      "height": 5040,
+      "width": 4032,
+      "src": "/images/gallery/life/DSC_00681111.webp"
     },
-    "DSC_01181.webp": {
-      "caption": "DSC 01181"
+    {
+      "caption": "DSC 01181",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/life/DSC_01181.webp"
     },
-    "DSC_01281.webp": {
-      "caption": "DSC 01281"
+    {
+      "caption": "DSC 01281",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/life/DSC_01281.webp"
     },
-    "DSC_0177111.webp": {
-      "caption": "DSC 0177111"
+    {
+      "caption": "DSC 0177111",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/life/DSC_0177111.webp"
     },
-    "DSC_01901.webp": {
-      "caption": "DSC 01901"
+    {
+      "caption": "DSC 01901",
+      "height": 6000,
+      "width": 4000,
+      "src": "/images/gallery/life/DSC_01901.webp"
     },
-    "DSC_0246111.webp": {
-      "caption": "DSC 0246111"
+    {
+      "caption": "DSC 0246111",
+      "height": 4000,
+      "width": 6000,
+      "src": "/images/gallery/life/DSC_0246111.webp"
     },
-    "DSC_026011.webp": {
-      "caption": "DSC 026011"
+    {
+      "caption": "DSC 026011",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/life/DSC_026011.webp"
     },
-    "DSC_02881112 (2).webp": {
-      "caption": "DSC 02881112 (2)"
+    {
+      "caption": "DSC 02881112 (2)",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/life/DSC_02881112 (2).webp"
     },
-    "DSC_03191 (2).webp": {
-      "caption": "DSC 03191 (2)"
+    {
+      "caption": "DSC 03191 (2)",
+      "height": 6000,
+      "width": 4000,
+      "src": "/images/gallery/life/DSC_03191 (2).webp"
     },
-    "DSC_03201.webp": {
-      "caption": "DSC 03201"
+    {
+      "caption": "DSC 03201",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/life/DSC_03201.webp"
     },
-    "DSC_03871.webp": {
-      "caption": "DSC 03871"
+    {
+      "caption": "DSC 03871",
+      "height": 5786,
+      "width": 4000,
+      "src": "/images/gallery/life/DSC_03871.webp"
     },
-    "DSC_04211.webp": {
-      "caption": "DSC 04211"
+    {
+      "caption": "DSC 04211",
+      "height": 6000,
+      "width": 4000,
+      "src": "/images/gallery/life/DSC_04211.webp"
     },
-    "DSC_04222.webp": {
-      "caption": "DSC 04222"
+    {
+      "caption": "DSC 04222",
+      "height": 4000,
+      "width": 6000,
+      "src": "/images/gallery/life/DSC_04222.webp"
     },
-    "DSC_043311.webp": {
-      "caption": "DSC 043311"
+    {
+      "caption": "DSC 043311",
+      "height": 4000,
+      "width": 6000,
+      "src": "/images/gallery/life/DSC_043311.webp"
     },
-    "DSC_04611.webp": {
-      "caption": "DSC 04611"
+    {
+      "caption": "DSC 04611",
+      "height": 6000,
+      "width": 4000,
+      "src": "/images/gallery/life/DSC_04611.webp"
     },
-    "DSC_0472111.webp": {
-      "caption": "DSC 0472111"
+    {
+      "caption": "DSC 0472111",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/life/DSC_0472111.webp"
     },
-    "DSC_0499121.webp": {
-      "caption": "DSC 0499121"
+    {
+      "caption": "DSC 0499121",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/life/DSC_0499121.webp"
     },
-    "DSC_05281111.webp": {
-      "caption": "DSC 05281111"
+    {
+      "caption": "DSC 05281111",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/life/DSC_05281111.webp"
     },
-    "DSC_053311.webp": {
-      "caption": "DSC 053311"
+    {
+      "caption": "DSC 053311",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/life/DSC_053311.webp"
     },
-    "DSC_05421 (3).webp": {
-      "caption": "DSC 05421 (3)"
+    {
+      "caption": "DSC 05421 (3)",
+      "height": 6000,
+      "width": 4000,
+      "src": "/images/gallery/life/DSC_05421 (3).webp"
     },
-    "DSC_0593111.webp": {
-      "caption": "DSC 0593111"
+    {
+      "caption": "DSC 0593111",
+      "height": 5040,
+      "width": 4032,
+      "src": "/images/gallery/life/DSC_0593111.webp"
     },
-    "DSC_06381.webp": {
-      "caption": "DSC 06381"
+    {
+      "caption": "DSC 06381",
+      "height": 5040,
+      "width": 4032,
+      "src": "/images/gallery/life/DSC_06381.webp"
     },
-    "DSC_06601.webp": {
-      "caption": "DSC 06601"
+    {
+      "caption": "DSC 06601",
+      "height": 3410,
+      "width": 6000,
+      "src": "/images/gallery/life/DSC_06601.webp"
     },
-    "DSC_06651.webp": {
-      "caption": "DSC 06651"
+    {
+      "caption": "DSC 06651",
+      "height": 4000,
+      "width": 6000,
+      "src": "/images/gallery/life/DSC_06651.webp"
     },
-    "DSC_0670111.webp": {
-      "caption": "DSC 0670111"
+    {
+      "caption": "DSC 0670111",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/life/DSC_0670111.webp"
     },
-    "DSC_06781.webp": {
-      "caption": "DSC 06781"
+    {
+      "caption": "DSC 06781",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/life/DSC_06781.webp"
     },
-    "DSC_06811.webp": {
-      "caption": "DSC 06811"
+    {
+      "caption": "DSC 06811",
+      "height": 4000,
+      "width": 6000,
+      "src": "/images/gallery/life/DSC_06811.webp"
     },
-    "DSC_06851.webp": {
-      "caption": "DSC 06851"
+    {
+      "caption": "DSC 06851",
+      "height": 4000,
+      "width": 6000,
+      "src": "/images/gallery/life/DSC_06851.webp"
     },
-    "DSC_069111 (2).webp": {
-      "caption": "DSC 069111 (2)"
+    {
+      "caption": "DSC 069111 (2)",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/life/DSC_069111 (2).webp"
     },
-    "DSC_06961111.webp": {
-      "caption": "DSC 06961111"
+    {
+      "caption": "DSC 06961111",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/life/DSC_06961111.webp"
     },
-    "DSC_069911.webp": {
-      "caption": "DSC 069911"
+    {
+      "caption": "DSC 069911",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/life/DSC_069911.webp"
     },
-    "DSC_072011.webp": {
-      "caption": "DSC 072011"
+    {
+      "caption": "DSC 072011",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/life/DSC_072011.webp"
     },
-    "DSC_08741.webp": {
-      "caption": "DSC 08741"
+    {
+      "caption": "DSC 08741",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/life/DSC_08741.webp"
     },
-    "DSC_094811.webp": {
-      "caption": "DSC 094811"
+    {
+      "caption": "DSC 094811",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/life/DSC_094811.webp"
     },
-    "DSC_09591.webp": {
-      "caption": "DSC 09591"
+    {
+      "caption": "DSC 09591",
+      "height": 6000,
+      "width": 4000,
+      "src": "/images/gallery/life/DSC_09591.webp"
     },
-    "Mainak Bose - Beneath A Sun That Never Sets.webp": {
-      "caption": "Mainak Bose - Beneath A Sun That Never Sets"
+    {
+      "caption": "Mainak Bose - Beneath A Sun That Never Sets",
+      "height": 5000,
+      "width": 4000,
+      "src": "/images/gallery/life/Mainak Bose - Beneath A Sun That Never Sets.webp"
     }
-  }
+  ]
 }

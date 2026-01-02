@@ -4,8 +4,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "next dev --webpack",
-    "prebuild": "npm run scripts/build_img_metadata.js",
+    "dev": "next dev",
+    "prebuild": "node scripts/build_img_metadata.js",
     "build": "next build",
     "start": "next start",
     "lint": "eslint"

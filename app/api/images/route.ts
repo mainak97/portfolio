@@ -27,22 +27,13 @@ export async function GET(
         return NextResponse.json({ error: "Folder required" }, { status: 400 });
     }
 
-    const imagesDir = path.join(process.cwd(), "public/images/gallery", folder);
+    const galleryMeta = path.join(process.cwd(), "src", "generated", "galleryMeta.json");
 
-    if (!fs.existsSync(imagesDir)) {
-        return NextResponse.json({ error: "Folder missing" }, { status: 404 });
+    if (!fs.existsSync(galleryMeta)) {
+        return NextResponse.json({ error: "Gallery metadata missing" }, { status: 500 });
     }
 
-    const files = fs.readdirSync(imagesDir);
-    const images = shuffle(await Promise.all(files.map(async (f) => {
-        const filePath = path.join(imagesDir, f);
-        const meta = await sharp(filePath).metadata();
-        return {
-            src: `/images/gallery/${folder}/${f}`,
-            width: meta.width,
-            height: meta.height
-        };
-    })));
+    const metaJson = fs.readFileSync(galleryMeta, "utf-8");
 
-    return NextResponse.json(images);
+    return NextResponse.json(shuffle(JSON.parse(metaJson)[folder]));
 }

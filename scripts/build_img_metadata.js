@@ -58,12 +58,15 @@ async function extract() {
     const filename = parts.slice(1).join("/");
 
     if (!result[folder]) {
-      result[folder] = {};
+      result[folder] = [];
     }
 
-    result[folder][filename] = {
-      caption
-    };
+    result[folder].push({
+      caption,
+      height: meta.height,
+      width: meta.width,
+      src: `/images/gallery/${folder}/${filename}`
+    });
   }
 
   fs.mkdirSync(path.dirname(OUTPUT), { recursive: true });
