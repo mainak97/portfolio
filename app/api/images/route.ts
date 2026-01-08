@@ -1,8 +1,7 @@
 import fs from "fs";
 import path from "path";
 import { NextResponse } from "next/server";
-import sharp from "sharp";
-import { XMLParser } from "fast-xml-parser";
+import { Img } from "@/components/photography/types";
 
 function shuffle<T>(arr: T[]): T[] {
     for (let i = arr.length - 1; i > 0; i--) {
@@ -35,5 +34,5 @@ export async function GET(
 
     const metaJson = fs.readFileSync(galleryMeta, "utf-8");
 
-    return NextResponse.json(shuffle(JSON.parse(metaJson)[folder]));
+    return NextResponse.json(shuffle(JSON.parse(metaJson)[folder].map((img: Img) => ({ ...img, filename: `/images/gallery/${folder}/${img.filename}` }))));
 }

@@ -5,7 +5,10 @@
   "type": "module",
   "scripts": {
     "dev": "next dev",
-    "prebuild": "node scripts/build_img_metadata.js",
+    "install:all": "npm install && python -m pip install --upgrade pip && pip install -r requirements.txt",
+    "run:scripts": "npm run run:convertImages && npm run run:buildImgMetadata",
+    "run:convertImages": "python -m venv .venv && .venv\\Scripts\\activate && python scripts/convert_images.py",
+    "run:buildImgMetadata": "python -m venv .venv && .venv\\Scripts\\activate && python scripts/build_img_metadata.py",
     "build": "next build",
     "start": "next start",
     "lint": "eslint"

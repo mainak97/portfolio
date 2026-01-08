@@ -1,7 +1,8 @@
 export type Img = {
-    src: string,
+    filename: string,
     width: number,
     height: number,
+    caption: string,
     loading?: boolean
 };
 
