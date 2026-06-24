@@ -5,7 +5,7 @@ export const ButtonItems: ButtonItem[] = [
         name: 'photography',
         link: '',
         default: true,
-        imgLink: '/images/profile/White.webp',
+        imgLink: '/images/profile/DSC_07402.webp',
         subHeader: 'Visual Philosophy',
         socialList: ['instagram', 'unsplash', 'gmail'],
         cssClass: 'photographyText'
