@@ -196,7 +196,9 @@ export default function Photography() {
                         <span className={styles.sectionHeaderDivider}>{`${sections[1].show ? show : hide}`}</span></span>
                 </div>
                 <div ref={galleryCateg} className={`${styles.sectionHeaderContainer} ${sections[1].show ? styles.show : styles.hide}`}>
-                    <ButtonGroup buttonList={buttonItems} onClickHandler={onCategClickHandler} />
+                    <ButtonGroup buttonList={buttonItems} onClickHandler={onCategClickHandler} style={{
+                        transform: `translateX(-10%)`
+                    }} />
                     {
                         loading ? <div ref={spinner}><Spinner /></div> : (<div ref={gallery} className={`${styles.masonry} ${activeImg !== null ? styles.blurLayer : ""}`}>
                             {images.map((img, i) => {
