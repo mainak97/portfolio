@@ -1,0 +1,702 @@
+{
+  "abstract": [
+    {
+      "filename": "DSC_00451111.webp",
+      "caption": "A solitary figure measuring the sun’s last breath.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_004811.webp",
+      "caption": "A lone silhouette crossing silence and snow.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_005611111.webp",
+      "caption": "Pausing where memory and footsteps meet.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_0078111.webp",
+      "caption": "The horizon folded into a perfect circle.",
+      "width": 4500,
+      "height": 4500
+    },
+    {
+      "filename": "DSC_01161.webp",
+      "caption": "Light spilling across the earth from above.",
+      "width": 4000,
+      "height": 6000
+    },
+    {
+      "filename": "DSC_019511 (2).webp",
+      "caption": "An afternoon gathered beneath open blue.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_023111.webp",
+      "caption": "Night sliced open by passing wings.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_024911.webp",
+      "caption": "A gaze trapped inside its own lens.",
+      "width": 4500,
+      "height": 4500
+    },
+    {
+      "filename": "DSC_02781.webp",
+      "caption": "A single wound of light on aging stone.",
+      "width": 4000,
+      "height": 6000
+    },
+    {
+      "filename": "DSC_02861.webp",
+      "caption": "Stillness rooted at the center of nothing.",
+      "width": 7035,
+      "height": 11220
+    },
+    {
+      "filename": "DSC_02871.webp",
+      "caption": "Waiting with the sun on borrowed ground.",
+      "width": 4000,
+      "height": 6000
+    },
+    {
+      "filename": "DSC_029221.webp",
+      "caption": "Color burning quietly after dark.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_02931.webp",
+      "caption": "A figure dissolving into reflected night.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_0312111.webp",
+      "caption": "An alien presence sealed in sand.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_03141 (copy).webp",
+      "caption": "Neon words hovering between noise and silence.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_0330111 (2).webp",
+      "caption": "A body leaking into red vapor.",
+      "width": 4500,
+      "height": 4500
+    },
+    {
+      "filename": "DSC_0343111.webp",
+      "caption": "Figures drifting through frozen air.",
+      "width": 4032,
+      "height": 5040
+    },
+    {
+      "filename": "DSC_03451.webp",
+      "caption": "The city breathing behind glass.",
+      "width": 6000,
+      "height": 4000
+    },
+    {
+      "filename": "DSC_03461.webp",
+      "caption": "Neon bleeding into motion.",
+      "width": 6000,
+      "height": 4000
+    },
+    {
+      "filename": "DSC_04081.webp",
+      "caption": "Mountains dreaming beneath a red sky.",
+      "width": 4000,
+      "height": 6000
+    },
+    {
+      "filename": "DSC_042511.webp",
+      "caption": "Standing inside someone else’s fire.",
+      "width": 2843,
+      "height": 3661
+    },
+    {
+      "filename": "DSC_04331111.webp",
+      "caption": "Walls painted with flight and color.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_05171.webp",
+      "caption": "A face emerging from electric blue.",
+      "width": 5873,
+      "height": 7341
+    },
+    {
+      "filename": "DSC_05281.webp",
+      "caption": "The sky collapsing inward.",
+      "width": 4000,
+      "height": 6000
+    },
+    {
+      "filename": "DSC_05691.webp",
+      "caption": "A myth wandering through the night.",
+      "width": 6000,
+      "height": 4000
+    },
+    {
+      "filename": "DSC_06191 (2).webp",
+      "caption": "Isolation suspended in darkness.",
+      "width": 6000,
+      "height": 4000
+    },
+    {
+      "filename": "DSC_06421111.webp",
+      "caption": "A figure absorbed by painted stone.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_06571.webp",
+      "caption": "Light spilling over ancient ridges.",
+      "width": 6000,
+      "height": 4000
+    },
+    {
+      "filename": "DSC_066111 (2).webp",
+      "caption": "Reality repeating itself on glass.",
+      "width": 6000,
+      "height": 4000
+    },
+    {
+      "filename": "DSC_067811.webp",
+      "caption": "Eyes holding untold stories.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_0694111.webp",
+      "caption": "The city humming after dark.",
+      "width": 4000,
+      "height": 6000
+    },
+    {
+      "filename": "DSC_072411111.webp",
+      "caption": "Urban edges dissolving into water.",
+      "width": 4032,
+      "height": 5040
+    },
+    {
+      "filename": "DSC_073411.webp",
+      "caption": "A stranger passing through neon hours.",
+      "width": 4500,
+      "height": 4500
+    },
+    {
+      "filename": "DSC_07831111.webp",
+      "caption": "A pause at the edge of altitude.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_08111.webp",
+      "caption": "History glowing beneath twilight.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_09341111.webp",
+      "caption": "Fire sinking behind quiet peaks.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_0936111.webp",
+      "caption": "Pointing at the fracture in the sky.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_17671.webp",
+      "caption": "Red moving through ordinary air.",
+      "width": 4000,
+      "height": 6662
+    },
+    {
+      "filename": "IMG_20240214_2108040071.webp",
+      "caption": "A fragment of presence, barely noticed.",
+      "width": 4500,
+      "height": 4500
+    },
+    {
+      "filename": "Mainak Bose - Deprogramming.webp",
+      "caption": "Harbor colors refusing stillness.",
+      "width": 4000,
+      "height": 6000
+    },
+    {
+      "filename": "Mainak Bose - Unknown Silence.webp",
+      "caption": "Ritual light watched by the night.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "Stand Still.webp",
+      "caption": "Motion suspended above open water.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_06831.webp",
+      "caption": "Ghostly nights.",
+      "width": 4032,
+      "height": 5040
+    },
+    {
+      "filename": "DSC_34361.webp",
+      "caption": "Trees from hell.",
+      "width": 4032,
+      "height": 5040
+    },
+    {
+      "filename": "DSC_099711.webp",
+      "caption": "Caught between blue worlds.",
+      "width": 4032,
+      "height": 5040
+    }
+  ],
+  "b&w": [
+    {
+      "filename": "DSC_02581 (2).webp",
+      "caption": "A solitary form against the sky.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_032911.webp",
+      "caption": "Still water repeating itself.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_03451 (2).webp",
+      "caption": "Waiting quietly with a machine of memory.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_03501.webp",
+      "caption": "Stone remembering time.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_03871 (2).webp",
+      "caption": "Shelter held between bodies and shadows.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_03931.webp",
+      "caption": "The sun reduced to contrast.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_05671.webp",
+      "caption": "Hiding from one’s own outline.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_05701.webp",
+      "caption": "A figure swallowed by dark.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_05781.webp",
+      "caption": "An intrusion above the city.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_06611.webp",
+      "caption": "Fog erasing the world.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_098411.webp",
+      "caption": "A moment before annihilation.",
+      "width": 4500,
+      "height": 4500
+    },
+    {
+      "filename": "Mainak Bose - Mirror of Nightmares.webp",
+      "caption": "Wings crossing endless water.",
+      "width": 6000,
+      "height": 7500
+    }
+  ],
+  "concerts": [
+    {
+      "filename": "frame_00020.webp",
+      "caption": "A figure standing above the noise.",
+      "width": 4032,
+      "height": 5040
+    },
+    {
+      "filename": "frame_00167.webp",
+      "caption": "Performance framed by screens.",
+      "width": 4032,
+      "height": 5040
+    },
+    {
+      "filename": "frame_00178.webp",
+      "caption": "Motion blurred into rhythm.",
+      "width": 4032,
+      "height": 5040
+    },
+    {
+      "filename": "frame_00197.webp",
+      "caption": "Joy dissolving into sound.",
+      "width": 4032,
+      "height": 5040
+    },
+    {
+      "filename": "frame_00487.webp",
+      "caption": "Identity stamped in spectacle.",
+      "width": 4032,
+      "height": 5040
+    },
+    {
+      "filename": "frame_00610.webp",
+      "caption": "Heat and urgency behind walls.",
+      "width": 4032,
+      "height": 5040
+    },
+    {
+      "filename": "frame_00752.webp",
+      "caption": "A voice cutting through light.",
+      "width": 4032,
+      "height": 5040
+    },
+    {
+      "filename": "frame_01239.webp",
+      "caption": "Color worn like armor.",
+      "width": 4032,
+      "height": 2520
+    },
+    {
+      "filename": "frame_01626.webp",
+      "caption": "Balance held for a heartbeat.",
+      "width": 4032,
+      "height": 2520
+    },
+    {
+      "filename": "frame_02413.webp",
+      "caption": "A body outlined by explosion.",
+      "width": 4032,
+      "height": 2520
+    },
+    {
+      "filename": "frame_02545.webp",
+      "caption": "Stillness surrounded by devotion.",
+      "width": 4032,
+      "height": 2520
+    },
+    {
+      "filename": "frame_02944.webp",
+      "caption": "Light tearing open the sky.",
+      "width": 4032,
+      "height": 2520
+    },
+    {
+      "filename": "frame_03289.webp",
+      "caption": "One body against many.",
+      "width": 4032,
+      "height": 5040
+    },
+    {
+      "filename": "frame_03435.webp",
+      "caption": "Waiting at the edge of sound.",
+      "width": 4032,
+      "height": 5040
+    },
+    {
+      "filename": "frame_05242.webp",
+      "caption": "Figures suspended in glare.",
+      "width": 4032,
+      "height": 5040
+    },
+    {
+      "filename": "frame_08260.webp",
+      "caption": "Watching life through glass.",
+      "width": 4032,
+      "height": 2520
+    }
+  ],
+  "life": [
+    {
+      "filename": "DSC_00341 (2).webp",
+      "caption": "Steel veins crossing the city.",
+      "width": 6000,
+      "height": 4000
+    },
+    {
+      "filename": "DSC_006611.webp",
+      "caption": "Night games under borrowed light.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_006711 (2).webp",
+      "caption": "A thought left unfinished.",
+      "width": 4500,
+      "height": 4500
+    },
+    {
+      "filename": "DSC_00681111.webp",
+      "caption": "Two figures at the edge of day.",
+      "width": 4032,
+      "height": 5040
+    },
+    {
+      "filename": "DSC_01181.webp",
+      "caption": "Movement scattered across open land.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_01281.webp",
+      "caption": "Life unfolding without script.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_01901.webp",
+      "caption": "Still water holding the sun.",
+      "width": 4000,
+      "height": 6000
+    },
+    {
+      "filename": "DSC_0246111.webp",
+      "caption": "A quiet yard, briefly alive.",
+      "width": 6000,
+      "height": 4000
+    },
+    {
+      "filename": "DSC_026011.webp",
+      "caption": "Time folding back on itself.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_02881112 (2).webp",
+      "caption": "A moment of hesitation.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_03191 (2).webp",
+      "caption": "Dusk lit by distant signals.",
+      "width": 4000,
+      "height": 6000
+    },
+    {
+      "filename": "DSC_03201.webp",
+      "caption": "Watching fragile worlds drift.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_03871.webp",
+      "caption": "A silver line across darkness.",
+      "width": 4000,
+      "height": 5786
+    },
+    {
+      "filename": "DSC_04211.webp",
+      "caption": "Standing beneath vertical night.",
+      "width": 4000,
+      "height": 6000
+    },
+    {
+      "filename": "DSC_04222.webp",
+      "caption": "Motion framed by fading light.",
+      "width": 6000,
+      "height": 4000
+    },
+    {
+      "filename": "DSC_043311.webp",
+      "caption": "Resting above the city’s hum.",
+      "width": 6000,
+      "height": 4000
+    },
+    {
+      "filename": "DSC_04611.webp",
+      "caption": "Time stretched into color.",
+      "width": 4000,
+      "height": 6000
+    },
+    {
+      "filename": "DSC_0472111.webp",
+      "caption": "Shared laughter at day’s end.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_0499121.webp",
+      "caption": "A figure cutting through darkness.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_05281111.webp",
+      "caption": "Looking upward for answers.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_053311.webp",
+      "caption": "The city reduced to blur.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_05421 (3).webp",
+      "caption": "Balance found above stone.",
+      "width": 4000,
+      "height": 6000
+    },
+    {
+      "filename": "DSC_0593111.webp",
+      "caption": "Gathered beneath borrowed moonlight.",
+      "width": 4032,
+      "height": 5040
+    },
+    {
+      "filename": "DSC_06381.webp",
+      "caption": "Rain held overhead.",
+      "width": 4032,
+      "height": 5040
+    },
+    {
+      "filename": "DSC_06601.webp",
+      "caption": "Mountains dissolving into night.",
+      "width": 6000,
+      "height": 3410
+    },
+    {
+      "filename": "DSC_06651.webp",
+      "caption": "Crossing air and altitude.",
+      "width": 6000,
+      "height": 4000
+    },
+    {
+      "filename": "DSC_0670111.webp",
+      "caption": "Drifting toward the sun.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_06781.webp",
+      "caption": "Lines binding the city.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_06811.webp",
+      "caption": "Fragments of ordinary motion.",
+      "width": 6000,
+      "height": 4000
+    },
+    {
+      "filename": "DSC_06851.webp",
+      "caption": "Human scale against stone.",
+      "width": 6000,
+      "height": 4000
+    },
+    {
+      "filename": "DSC_069111 (2).webp",
+      "caption": "A ritual silhouetted by dusk.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_06961111.webp",
+      "caption": "Presence without explanation.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_069911.webp",
+      "caption": "Standing above everything known.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_072011.webp",
+      "caption": "Looking outward, saying nothing.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_08741.webp",
+      "caption": "Small lives between tall shadows.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_094811.webp",
+      "caption": "Watching the city breathe.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_09591.webp",
+      "caption": "Waiting beside still water.",
+      "width": 4000,
+      "height": 6000
+    },
+    {
+      "filename": "Mainak Bose - Beneath A Sun That Never Sets.webp",
+      "caption": "Evening anchored on quiet water.",
+      "width": 4000,
+      "height": 5000
+    },
+    {
+      "filename": "DSC_008511111.webp",
+      "caption": "Fleeting observers of the world.",
+      "width": 4032,
+      "height": 5040
+    },
+    {
+      "filename": "DSC_04221111.webp",
+      "caption": "Moonlight runs.",
+      "width": 4032,
+      "height": 5040
+    }
+  ],
+  "profile": [
+    {
+      "filename": "DSC_35801.webp",
+      "caption": "A maker holding his mirror.",
+      "width": 4032,
+      "height": 4032
+    },
+    {
+      "filename": "DSC_07402.webp",
+      "caption": "Hands wrapped around intention.",
+      "width": 5120,
+      "height": 1024
+    }
+  ]
+}

@@ -2,13 +2,19 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "next dev",
+    "install:all": "npm install && python -m pip install --upgrade pip && pip install -r requirements.txt",
+    "run:scripts": "npm run run:convertImages && npm run run:buildImgMetadata",
+    "run:convertImages": "python -m venv .venv && .venv\\Scripts\\activate && python scripts/convert_images.py",
+    "run:buildImgMetadata": "python -m venv .venv && .venv\\Scripts\\activate && python scripts/build_img_metadata.py",
     "build": "next build",
     "start": "next start",
     "lint": "eslint"
   },
   "dependencies": {
+    "fast-xml-parser": "^5.3.3",
     "next": "16.1.1",
     "react": "19.2.3",
     "react-dom": "19.2.3",

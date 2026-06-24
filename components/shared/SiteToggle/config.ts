@@ -5,7 +5,7 @@ export const ButtonItems: ButtonItem[] = [
         name: 'photography',
         link: '',
         default: true,
-        imgLink: '/images/profile/DSC_07402.jpg',
+        imgLink: '/images/profile/White.webp',
         subHeader: 'Visual Philosophy',
         socialList: ['instagram', 'unsplash', 'gmail'],
         cssClass: 'photographyText'
@@ -13,8 +13,8 @@ export const ButtonItems: ButtonItem[] = [
     {
         name: 'technology',
         link: '',
-        imgLink: '/images/profile/DSC_08401.jpg',
-        subHeader: 'There is nothing we can\'t do',
+        imgLink: '/images/profile/Black.webp',
+        subHeader: 'Full Stack Developer',
         socialList: ['github', 'linkedin', 'gmail'],
         cssClass: 'technologyText'
     }

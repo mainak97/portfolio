@@ -200,14 +200,14 @@ export default function Photography() {
                     {
                         loading ? <div ref={spinner}><Spinner /></div> : (<div ref={gallery} className={`${styles.masonry} ${activeImg !== null ? styles.blurLayer : ""}`}>
                             {images.map((img, i) => {
-                                return (<div key={img.src} className={`${styles.item}`}
+                                return (<div key={img.filename} className={`${styles.item}`}
                                     onClick={(e) => !img.loading ? onImgClickHandler(i, e.currentTarget) : ""}>
                                     <div className={`${styles.inner} ${activeImg === i ? styles.active : ""}`}
                                         style={{ transformOrigin: origin }}>
-                                        <Image src={img.src} alt="" width={img.width} height={img.height} loading="eager"
+                                        <Image src={img.filename} alt="" width={img.width} height={img.height} loading="eager"
                                             onLoad={() => updateImgLoading(i)}
                                         />
-                                        <span>{img.src}</span>
+                                        <span className={styles.imgCaption}>{img.caption}</span>
                                     </div>
                                 </div>);
                             })}

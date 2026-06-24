@@ -95,6 +95,10 @@
 
 }
 
+.imgCaption {
+    font-family: var(--font-photography-about-text), system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
 @media (max-width: 900px) {
     .sectionHeader {
         font-size: large;
@@ -109,4 +113,5 @@
     .masonry {
         column-count: 2;
     }
+
 }

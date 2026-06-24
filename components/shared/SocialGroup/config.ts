@@ -20,11 +20,11 @@ export const SocialMediaItems: Record<string, SocialItem> = {
     github: {
         id: 'github',
         name: 'Github',
-        link: 'https://www.google.com'
+        link: 'https://github.com/mainak97'
     },
     linkedin: {
         id: 'linkedin',
         name: 'LinkedIn',
-        link: 'https://www.linkedin.com'
+        link: 'https://www.linkedin.com/in/mainak-bose-6529a2392'
     }
 };
