@@ -21,7 +21,8 @@ export default function ButtonGroup({ buttonList, onClickHandler, divider }: But
                     >/</span> : <></>}
                     <span key={i} className={`flex justify-center items-center text-center `}
                         style={{
-                            width: `${width}%`
+                            width: `${width}%`,
+                            transform: `translateX(-10%)`
                         }}>
                         <button className={`pointer-cursor ${bl.cssClass ? bl.cssClass : ''} ${styles.button} ${bl.active ? styles.active : ''}`} onClick={() => onClickHandler(bl)}>{bl.name}</button>
                     </span>
