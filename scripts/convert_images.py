@@ -3,9 +3,11 @@
 import shutil
 from pathlib import Path
 from PIL import Image
-from pathlib import Path
 
-WEBP_QUALITY = 85
+WEBP_QUALITY = 75
+MAX_WIDTH = 2560
+MAX_HEIGHT = 2560
+
 SUPPORTED_EXTS = {".jpg", ".jpeg", ".png", ".tiff", ".bmp"}
 
 def clear_repo_gallery(gallery_path: Path):
@@ -31,16 +33,30 @@ def convert_and_copy(images, src_root: Path, dst_root: Path):
 
         with Image.open(img_path) as im:
             im = im.convert("RGB")
+            im.thumbnail(
+                (MAX_WIDTH, MAX_HEIGHT),
+                Image.Resampling.LANCZOS
+            )
+
             im.save(
                 out_path,
                 "WEBP",
                 quality=WEBP_QUALITY,
-                method=6
+                method=6,
+                optimize=True
             )
+
+        size_mb = out_path.stat().st_size / (1024 * 1024)
+        print(
+            f"    {im.width}x{im.height} "
+            f"-> {size_mb:.2f} MB"
+        )
+
 
 def main():
     SCRIPT_DIR = Path(__file__).parent.resolve()
     PROJECT_ROOT = SCRIPT_DIR.parent
+
     IMG_ROOT = PROJECT_ROOT / "public" / "images"
     LOCAL_ROOT = PROJECT_ROOT / "raw_images"
 
@@ -48,8 +64,9 @@ def main():
     print(f"Found {len(images)} images")
 
     clear_repo_gallery(IMG_ROOT)
-
     convert_and_copy(images, LOCAL_ROOT, IMG_ROOT)
 
+    print("Done")
+    
 if __name__ == "__main__":
     main()
