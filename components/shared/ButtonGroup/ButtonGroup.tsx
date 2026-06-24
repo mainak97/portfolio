@@ -8,10 +8,11 @@ import { Fragment } from 'react/jsx-runtime';
 type ButtonGroupProps = {
     buttonList: ButtonItem[]
     onClickHandler: Function,
-    divider?: boolean
+    divider?: boolean,
+    style?: React.CSSProperties
 };
 
-export default function ButtonGroup({ buttonList, onClickHandler, divider }: ButtonGroupProps) {
+export default function ButtonGroup({ buttonList, onClickHandler, divider, style }: ButtonGroupProps) {
     const width = Math.floor(100 / (buttonList.length + (divider ? buttonList.length - 1 : 0)));
     return (
         <>
@@ -22,7 +23,7 @@ export default function ButtonGroup({ buttonList, onClickHandler, divider }: But
                     <span key={i} className={`flex justify-center items-center text-center `}
                         style={{
                             width: `${width}%`,
-                            transform: `translateX(-10%)`
+                            ...style
                         }}>
                         <button className={`pointer-cursor ${bl.cssClass ? bl.cssClass : ''} ${styles.button} ${bl.active ? styles.active : ''}`} onClick={() => onClickHandler(bl)}>{bl.name}</button>
                     </span>
