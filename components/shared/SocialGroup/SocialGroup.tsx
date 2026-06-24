@@ -109,7 +109,7 @@ export default function SocialGroup({ socialList, linkList }: SocialGroupProps) 
     };
     return (
         <>
-            <section className={`flex items-center justify-evenly flex items-center justify-center font-sans mt-2`}>
+            <section className={`flex items-center justify-evenly flex items-center justify-center font-sans mt-1`}>
                 {socialList?.map((s, i) => {
                     const Icon = iconMap[s];
                     const link = linkList && linkList[i] ? linkList[i] : s;
