@@ -251,6 +251,24 @@
       "caption": "Motion suspended above open water.",
       "width": 4000,
       "height": 5000
+    },
+    {
+      "filename": "DSC_06831.webp",
+      "caption": "Ghostly nights.",
+      "width": 4032,
+      "height": 5040
+    },
+    {
+      "filename": "DSC_34361.webp",
+      "caption": "Trees from hell.",
+      "width": 4032,
+      "height": 5040
+    },
+    {
+      "filename": "DSC_099711.webp",
+      "caption": "Caught between blue worlds.",
+      "width": 4032,
+      "height": 5040
     }
   ],
   "b&w": [
@@ -463,12 +481,6 @@
       "height": 5000
     },
     {
-      "filename": "DSC_0177111.webp",
-      "caption": "Color breaking through routine.",
-      "width": 4000,
-      "height": 5000
-    },
-    {
       "filename": "DSC_01901.webp",
       "caption": "Still water holding the sun.",
       "width": 4000,
@@ -659,26 +671,32 @@
       "caption": "Evening anchored on quiet water.",
       "width": 4000,
       "height": 5000
+    },
+    {
+      "filename": "DSC_008511111.webp",
+      "caption": "Fleeting observers of the world.",
+      "width": 4032,
+      "height": 5040
+    },
+    {
+      "filename": "DSC_04221111.webp",
+      "caption": "Moonlight runs.",
+      "width": 4032,
+      "height": 5040
     }
   ],
   "profile": [
     {
-      "filename": "DSC_00151.webp",
+      "filename": "DSC_35801.webp",
       "caption": "A maker holding his mirror.",
-      "width": 4965,
-      "height": 4965
+      "width": 4032,
+      "height": 4032
     },
     {
       "filename": "DSC_07402.webp",
       "caption": "Hands wrapped around intention.",
       "width": 5120,
       "height": 1024
-    },
-    {
-      "filename": "DSC_08401.webp",
-      "caption": "The observer inside the frame.",
-      "width": 4000,
-      "height": 6000
     }
   ]
 }

@@ -36,4 +36,4 @@ export const Sections: Section[] = [
     }
 ];
 
-export const AboutPic: string = '/images/profile/DSC_00151.webp';
+export const AboutPic: string = '/images/profile/DSC_35801.webp';

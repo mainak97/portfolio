@@ -1,5 +1,9 @@
 import type { Metadata } from "next";
-import { photographyNameFont, technologyNameFont, photographySubHeaderFont, aboutPhotographyText } from "./fonts";
+import {
+  photographyNameFont, technologyNameFont,
+  photographySubHeaderFont, aboutPhotographyText,
+  technologySubHeaderFont, technologyF1, technologyF2, technologyF3
+} from "./fonts";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -15,7 +19,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${photographyNameFont.variable} ${technologyNameFont.variable} ${photographySubHeaderFont.variable} ${aboutPhotographyText.variable} antialiased`}
+        className={`${photographyNameFont.variable} ${technologyNameFont.variable}
+        ${photographySubHeaderFont.variable} ${aboutPhotographyText.variable} ${technologySubHeaderFont.variable}
+        ${technologyF1.variable} ${technologyF2.variable} ${technologyF3.variable} antialiased`}
       >
         {children}
       </body>

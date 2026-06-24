@@ -207,7 +207,7 @@ export default function Photography() {
                                         <Image src={img.filename} alt="" width={img.width} height={img.height} loading="eager"
                                             onLoad={() => updateImgLoading(i)}
                                         />
-                                        <span>{img.caption}</span>
+                                        <span className={styles.imgCaption}>{img.caption}</span>
                                     </div>
                                 </div>);
                             })}

@@ -23,7 +23,7 @@
 
 @media (max-width: 900px) {
     .button {
-        font-size: large;
+        font-size: medium;
     }
 
     .buttonContainer {
