@@ -1,4 +1,4 @@
-import { Major_Mono_Display, Agdasima, Tangerine, Merriweather, Audiowide, VT323, Monoton, Abril_Fatface, Newsreader } from "next/font/google";
+import { Major_Mono_Display, Strait, Tangerine, Merriweather, Audiowide, VT323, Monoton, Abril_Fatface, Newsreader } from "next/font/google";
 
 export const photographyNameFont = Major_Mono_Display({
     subsets: ["latin"],
@@ -21,6 +21,14 @@ export const photographySubHeaderFont = Tangerine({
     weight: ["700"],
     style: ["normal"],
     variable: "--font-sub-header-photography",
+    display: "swap"
+});
+
+export const photographyCaptionFont = Strait({
+    subsets: ["latin"],
+    weight: ["400"],
+    style: ["normal"],
+    variable: "--font-caption-photography",
     display: "swap"
 });
 

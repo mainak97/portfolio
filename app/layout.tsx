@@ -2,7 +2,8 @@ import type { Metadata } from "next";
 import {
   photographyNameFont, technologyNameFont,
   photographySubHeaderFont, aboutPhotographyText,
-  technologySubHeaderFont, technologyF1, technologyF2, technologyF3
+  technologySubHeaderFont, technologyF1, technologyF2, technologyF3,
+  photographyCaptionFont
 } from "./fonts";
 import "./globals.css";
 
@@ -21,7 +22,7 @@ export default function RootLayout({
       <body
         className={`${photographyNameFont.variable} ${technologyNameFont.variable}
         ${photographySubHeaderFont.variable} ${aboutPhotographyText.variable} ${technologySubHeaderFont.variable}
-        ${technologyF1.variable} ${technologyF2.variable} ${technologyF3.variable} antialiased`}
+        ${technologyF1.variable} ${technologyF2.variable} ${technologyF3.variable} ${photographyCaptionFont.variable} antialiased`}
       >
         {children}
       </body>
