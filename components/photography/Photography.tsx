@@ -207,7 +207,7 @@ export default function Photography() {
                                     <div className={`${styles.inner} ${activeImg === i ? styles.active : ""}`}
                                         style={{ transformOrigin: origin }}>
                                         <Image src={img.filename} alt="" width={img.width} height={img.height} loading="eager"
-                                            onLoad={() => updateImgLoading(i)}
+                                            onLoad={() => updateImgLoading(i)} className="mb-1"
                                         />
                                         <span className={styles.imgCaption}>{img.caption}</span>
                                     </div>
@@ -232,39 +232,43 @@ export default function Photography() {
                         </div>
                         <div className={`p-5 ${styles.aboutPhotographyText} basis-[67%]`}>
                             <p>
-                                Hi, I’m Mainak, a visual artist based in Kolkata, West Bengal, India.
-                                I started photography on my phone in 2015, and I got my first camera in 2016.
-                                Since then, I have taken tens of thousands of pictures, edited a few thousand of them,
-                                and considered those worthy of sharing with the world.
-                                Every image you see is a composite of two or more photographs I have taken over the years.
-                                I enjoy combining, editing, and experimenting with my own images.
+                                Hi, I’m Mainak, a visual artist from Kolkata, India.
+                                My journey with photography began in 2015 with a phone camera and curiosity.
+                                A year later, I picked up my first camera, and since then I’ve captured tens of thousands of images.
+                                Only a fraction of them make it here. Every piece on this site is built from two or more photographs taken across different places, moments, and years, carefully combined into a single image.
+                                I’m drawn to the process of blending reality with imagination, reshaping familiar scenes into something that feels both believable and impossible.
                             </p>
                             <br />
                             <p>
-                                My style is what it is because I am rarely satisfied with a photograph as it is.
-                                Making composites is my way of improving the original image.
-                                It is my way of dreaming and capturing otherworldly sights while being grounded in reality.
-                                I am incredibly grateful to have had opportunities to travel and witness remarkable places in real life,
-                                but those moments are rare. What I create is my way of dreaming during ordinary days.
+                                I’ve rarely been interested in photography as pure documentation.
+                                A photograph, for me, is often the beginning rather than the destination.
+                                Through compositing, editing, and experimentation, I can push an image beyond what was originally in front of the lens.
+                                It allows me to create landscapes that never existed, skies that never appeared, and moments that belong somewhere between memory and dream.
                             </p>
                             <br />
                             <p>
-                                Recently, I have begun experimenting with video as well.
-                                I do not think I am nearly as proficient with video as I am with still images,
-                                but I want to learn and improve.
-                                I want to keep experimenting, and I want to keep creating.
+                                Travel has given me the privilege of witnessing extraordinary places firsthand, but those experiences are fleeting.
+                                The images I create are a way of extending that sense of wonder into everyday life, a way of continuing to explore even when standing still.
                             </p>
                             <br />
                             <p>
-                                My goal is always to create work that my past self could never have imagined.
-                                I want to look back at my work and see how it has changed over the years,
-                                and through that, how I have changed as well.
-                                I am not the same person I was yesterday, and I could not have imagined the ways I would change.
-                                In the same way, I do not want my work to remain unchanged.
+                                Lately, I’ve started venturing into video.
+                                It feels like learning a new language: unfamiliar, challenging, and exciting.
+                                I’m nowhere near as comfortable with motion as I am with still images, but that uncertainty is part of the appeal.
+                                Growth has always come from experimentation, and I intend to keep experimenting.
                             </p>
                             <br />
                             <p>
-                                Thank you for visiting my site! And thank you if you read all this! I hope you have a great day!
+                                My goal has never been perfection.
+                                It has been transformation.
+                                I want to create work that would surprise the version of myself who started this journey years ago.
+                                When I look back through old images, I see more than changing techniques.
+                                I see changing perspectives, changing ambitions, and a changing person.
+                                Just as I continue to evolve, I want my work to evolve with me.
+                            </p>
+                            <br />
+                            <p>
+                                Thank you for visiting. I hope you find something here that makes you pause, wonder, or imagine.
                             </p>
                         </div>
                     </div>
